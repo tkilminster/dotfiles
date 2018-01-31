@@ -21,6 +21,7 @@ set copyindent
 
 set wrap
 
-syntax on 
-set t_Col=256
-colorscheme solarized
+set t_Co=256
+syntax enable
+set background=dark
+colorscheme iceberg 
